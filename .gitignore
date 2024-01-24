@@ -1,0 +1,33 @@
+# CMake
+/build/
+
+# Compiled objects
+*.o
+*.ko
+*.obj
+*.elf
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Xcode
+*.xcworkspace/
+*.xcodeproj/
+
+# CMake user-specific files
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CTestTestfile.cmake
+Testing/
+
+# SFML generated files
+*.pdb
